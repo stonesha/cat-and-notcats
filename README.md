@@ -6,6 +6,7 @@ Neural network that identifies whether an image is a cat or not
 - Keras
 - PIL
 - numpy
+- OpenCV
 
 ## How to Use
 For arg_test.py:
